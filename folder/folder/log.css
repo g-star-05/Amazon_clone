@@ -1,0 +1,81 @@
+.Alogo{
+display: flex;
+justify-content: center;
+
+}
+.Alogo img{
+    height: 50px;
+    width: 100px;
+    
+}
+.amzonsign{
+
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.amzonsign .A{
+    width: 400px;
+    height:  400px;
+    background-color: azure;
+    border: 3px solid rgb(227, 254, 254);
+
+
+}   
+h1,p{
+    margin-left: 30px;
+}
+form input{
+    margin-left: 30px;
+    width: 300px;
+height: 25px;    
+border-radius: 5px;
+
+}
+input button{
+    height: 500px;
+    display: inline-block;
+    margin-left: 30px;
+}
+.B{
+    width: 310px;
+    height: 30px;
+    margin-top: 20px;
+    margin-left: 30px;
+    background-color: yellow;
+    border-radius: 10px;
+border: yellow;
+
+}
+.c{
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.help p{
+display: inline-block;
+margin-left:10px;
+}
+.help i{
+        margin-top: 40px;
+
+    }
+.help{
+    border-bottom: 20px;
+}
+.help hr{
+    margin-left: 5px;
+}
+.line hr{
+    margin-right: 25px;
+}
+.work a{
+    text-decoration: none;
+    margin-left: 30px;
+    position: relative;
+    margin-top: 10px;
+    
+}
+.shop a{
+margin-bottom: 50px;
+}
